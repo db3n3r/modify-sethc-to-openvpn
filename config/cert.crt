@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            44:1a:29:23:01:48:fa:7c:54:82:17:8e:f3:ba:b7:55
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Jumpserver
+        Validity
+            Not Before: Jan 27 22:28:44 2023 GMT
+            Not After : Jan 11 22:28:44 2026 GMT
+        Subject: CN=Maquinas
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:db:3b:7e:d5:b0:2d:5a:c9:84:21:38:bc:dc:ef:
+                    3e:f3:ef:55:7e:77:e9:0e:7e:e3:06:9c:68:43:75:
+                    f9:94:75:79:0d:c0:a1:c4:e2:a8:36:24:6e:31:6e:
+                    c0:1a:c3:da:98:5a:8d:31:2f:df:d4:96:eb:91:b0:
+                    e0:4f:67:55:ba:f3:ae:d9:a8:68:a9:98:91:b4:b4:
+                    f6:52:b3:1d:52:95:70:b0:f6:0f:f1:73:40:e9:4c:
+                    b7:2b:51:ba:96:17:d6:cc:23:f3:9f:8f:35:7c:f6:
+                    07:76:90:13:c2:18:e8:45:6e:05:50:8e:27:f7:98:
+                    ef:a4:22:5a:5e:e1:98:55:0d:07:71:67:47:e8:35:
+                    ff:b8:1e:b3:14:29:b4:17:3a:46:09:bd:ab:7f:7d:
+                    9f:34:f8:ea:c4:2b:e4:0c:4d:1b:1e:7f:fb:1e:2c:
+                    80:e6:a5:53:49:eb:80:ec:1e:3a:21:e6:f9:4d:d7:
+                    e5:20:7a:2e:47:a8:7a:ae:c0:92:0d:1a:03:6e:e8:
+                    85:40:22:46:61:5c:fc:de:f9:66:a4:b9:b6:f8:fe:
+                    1f:06:1a:bc:ed:e2:3c:a9:d4:80:be:8e:6a:16:78:
+                    3b:d5:74:7a:e3:57:ee:a2:e2:c4:d2:c3:10:37:c6:
+                    0a:9b:90:58:9c:5a:77:92:ff:e4:fe:1f:83:1a:a5:
+                    c6:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                8A:29:6A:64:A3:89:FF:D0:6D:B1:CA:EE:39:93:6E:67:85:C3:EE:74
+            X509v3 Authority Key Identifier: 
+                keyid:19:EB:BC:25:8B:4F:1B:1F:C7:9F:0F:B2:02:85:F0:CD:70:64:F4:5C
+                DirName:/CN=Jumpserver
+                serial:53:0B:92:CC:BA:65:57:AE:F6:BF:76:E8:D7:53:EE:7F:A2:B6:8F:4A
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         1e:59:1e:93:4c:08:42:5e:b7:6e:aa:3f:5f:d2:05:f5:9d:cc:
+         75:a8:93:17:ab:f5:d2:61:7b:ea:81:b7:0f:ea:ae:ee:7e:a9:
+         f9:46:cc:3c:8c:a3:25:f7:b4:ba:17:6f:0a:e7:07:8c:42:14:
+         e0:18:4b:b6:26:45:27:bf:1e:f9:76:31:e0:a5:35:f8:c2:39:
+         2f:9f:09:e9:7e:4d:6c:d9:ba:23:f0:48:0c:c9:97:a4:84:91:
+         99:ea:df:60:9b:66:7c:d2:ec:62:70:a4:0b:7b:67:ac:0d:ac:
+         b2:28:04:6f:be:df:8e:b6:6d:a5:5e:a3:7f:84:1d:c5:86:f6:
+         76:d4:80:a9:49:47:ef:37:f0:26:7b:f8:d6:f1:0c:fd:31:be:
+         3e:cc:89:3a:e9:ff:fb:a4:c5:ec:ce:5d:26:8d:6f:eb:33:0a:
+         c3:a7:3d:6e:7a:c8:77:ab:f4:64:59:39:d0:53:24:7a:1e:e2:
+         44:c8:c8:55:a3:b8:bd:0a:ff:f7:80:bf:02:f6:14:fc:78:e4:
+         21:3d:e3:94:a9:d1:78:f8:05:1d:0f:58:d4:ac:d7:06:1e:df:
+         05:35:e3:f6:55:8e:1b:aa:2b:40:dc:e7:97:b9:e2:29:38:f0:
+         c6:b9:fb:07:d8:bc:c0:82:62:36:a1:48:3e:1b:b1:9f:52:35:
+         17:58:55:53
+-----BEGIN CERTIFICATE-----
+MIIDVDCCAjygAwIBAgIQRBopIwFI+nxUgheO87q3VTANBgkqhkiG9w0BAQsFADAV
+MRMwEQYDVQQDDApKdW1wc2VydmVyMB4XDTIzMDEyNzIyMjg0NFoXDTI2MDExMTIy
+Mjg0NFowEzERMA8GA1UEAwwITWFxdWluYXMwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDbO37VsC1ayYQhOLzc7z7z71V+d+kOfuMGnGhDdfmUdXkNwKHE
+4qg2JG4xbsAaw9qYWo0xL9/UluuRsOBPZ1W6867ZqGipmJG0tPZSsx1SlXCw9g/x
+c0DpTLcrUbqWF9bMI/OfjzV89gd2kBPCGOhFbgVQjif3mO+kIlpe4ZhVDQdxZ0fo
+Nf+4HrMUKbQXOkYJvat/fZ80+OrEK+QMTRsef/seLIDmpVNJ64DsHjoh5vlN1+Ug
+ei5HqHquwJINGgNu6IVAIkZhXPze+Wakubb4/h8GGrzt4jyp1IC+jmoWeDvVdHrj
+V+6i4sTSwxA3xgqbkFicWneS/+T+H4MapcZXAgMBAAGjgaEwgZ4wCQYDVR0TBAIw
+ADAdBgNVHQ4EFgQUiilqZKOJ/9BtscruOZNuZ4XD7nQwUAYDVR0jBEkwR4AUGeu8
+JYtPGx/Hnw+yAoXwzXBk9FyhGaQXMBUxEzARBgNVBAMMCkp1bXBzZXJ2ZXKCFFML
+ksy6ZVeu9r926NdT7n+ito9KMBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQE
+AwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAHlkek0wIQl63bqo/X9IF9Z3MdaiTF6v1
+0mF76oG3D+qu7n6p+UbMPIyjJfe0uhdvCucHjEIU4BhLtiZFJ78e+XYx4KU1+MI5
+L58J6X5NbNm6I/BIDMmXpISRmerfYJtmfNLsYnCkC3tnrA2ssigEb77fjrZtpV6j
+f4QdxYb2dtSAqUlH7zfwJnv41vEM/TG+PsyJOun/+6TF7M5dJo1v6zMKw6c9bnrI
+d6v0ZFk50FMkeh7iRMjIVaO4vQr/94C/AvYU/HjkIT3jlKnRePgFHQ9Y1KzXBh7f
+BTXj9lWOG6orQNznl7niKTjwxrn7B9i8wIJiNqFIPhuxn1I1F1hVUw==
+-----END CERTIFICATE-----
